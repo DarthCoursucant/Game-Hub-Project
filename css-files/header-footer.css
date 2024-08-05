@@ -82,6 +82,7 @@
   .header-right {
     float: right;
     display: flex;
+    margin-right: 2%;
   }
 
   .logo-header a {
@@ -95,6 +96,6 @@
     margin-top: 50px;
   }
 
-  .flex-menu {
-    margin-right: 5%;
+  #cart-button {
+    margin-right: 50px;
   }
