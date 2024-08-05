@@ -51,7 +51,7 @@
     color: red;
 }
 
-.hero-home-flex-two, .container-games, .container-games-last {
+.hero-home-flex-two, .container-games, .container-games-last, .container-games-first {
     display: flex;
 }
 
@@ -83,6 +83,10 @@
 
 #survival-games, #visual-novels-games {
     margin-left: 85px;
+}
+
+.container-games-first {
+    margin-top: 50px;
 }
 
 .container-games {
