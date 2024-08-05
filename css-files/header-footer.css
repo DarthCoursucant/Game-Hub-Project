@@ -105,3 +105,17 @@
   #cart-button {
     margin-right: 50px;
   }
+
+  .footer-box-one {
+    width: 500px;
+    color: #ffffff;
+  }
+
+  .footer-box-one h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .footer-box-one p {
+    font-size: 20px;
+  }
