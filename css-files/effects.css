@@ -7,10 +7,11 @@
     box-shadow: 5px 5px 10px 10px #ffffff;
 }
 
-#cart-button:hover, .location-menu-thing img:hover {
+#cart-button:hover, .location-menu-thing img:hover, .menubar img:hover  {
     box-shadow: 10px 10px 15px 5px #ffffff;
     border-radius: 10px;
 }
+
 
 .hero-text h1:hover, .hero-text p:hover, #category-container-header h1:hover, .hero-text-one h1:hover, .hero-text-one p:hover {
     color: #03FFFF;
@@ -55,3 +56,12 @@
     transform: scale(1);
     background-image: linear-gradient(to top, rgba(255, 255, 255, 0.799), rgba(0, 0, 0, 0)), url();
 }
+
+.menubar a:hover {
+    font-size: 30px;
+    color: #02FFF0;
+  }
+
+  #mymenu h1:hover, #mymenu h2:hover {
+    color: #FFE602;
+  }
