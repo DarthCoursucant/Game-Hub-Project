@@ -227,24 +227,15 @@
 
 .product-info h4 {
     font-size: 20px;
-    margin: 0px;
     text-align: center;
-    margin-top: 35px;
-    padding: 0px;
+    margin-top: 25px;
+    margin-bottom: -20px;
 }
 
 .product-info h5 {
     font-size: 22px;
-    padding: 0px;
     font-weight: normal;
     margin-bottom: 20px;
-}
-
-.product-info:hover {
-    transition: 0.2s;
-    height: 143px;
-    transform: scale(1);
-    background-image: linear-gradient(to top, rgba(8, 96, 57, 0.799), rgba(0, 0, 0, 0)), url();
 }
 
 #category-container-header {
