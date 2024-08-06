@@ -3,8 +3,14 @@
 }
 
 .checked {
-    color: rgb(201, 131, 2);
+    color: #FFD700;
   }
+
+.video-game-stars {
+    margin-left: 80px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
 
 .video-game-product-thing {
     background-color: #ffffff;
@@ -13,13 +19,10 @@
   }
 
 .video-thing-photo img {
-    width: 250px;
-    height: 190px;
-    margin-top: 20px;
-  }
-
-.video-thing-photo {
-    margin-left: 40px;
+    width: 350px;
+    height: 220px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
   }
 
 .video-game-header h1 {
@@ -29,15 +32,14 @@
   }
 
 #video-game-trailer {
-    background-color: #2E7702;
-    box-shadow: 5px 5px 10px 5px #4FC009;
+    background-color: #000000;
+    box-shadow: 5px 5px 10px 5px #232425;
     width: 250px;
     margin-left: 50px;
     text-align: center;
     border-radius: 20px;
     border: 2px solid #ffffff;
-    margin-top: -5px;
-    margin-bottom: 15px;
+    margin-top: 20px;
 }
 
 #video-game-trailer a {
@@ -48,8 +50,13 @@
 #select-console-type {
     width: 300px;
     margin-left: 25px;
-    height: 50px;
-    font-size: 25px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #B5B5B5;
+}
+
+.video-game-price {
+    margin-top: -10px;
 }
 
 #old-price {
