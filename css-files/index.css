@@ -87,7 +87,13 @@
     text-align: center;
 }
 
-.hero-text a, .hero-text-one a {
+#hero-button {
+    width: 300px;
+    margin-left: 580px;
+    border-radius: 20px;
+}
+
+#hero-button a {
     text-decoration: none;
     color: red;
 }
