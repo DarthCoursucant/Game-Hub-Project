@@ -3,7 +3,7 @@
     font-size: 55px;
 }
 
-.hero-image-funko-pops:hover, .new-arrivals-hero-image:hover, .top-sellers-hero-image:hover, .pre-order-hero-image:hover {
+.hero-image-funko-pops:hover, .new-arrivals-hero-image:hover, .top-sellers-hero-image:hover, .pre-order-hero-image:hover, .products-container:hover {
     box-shadow: 5px 5px 10px 10px #ffffff;
 }
 
@@ -42,4 +42,11 @@
 
 #horror-games a:hover, #star-wars-games a:hover, #action-games a:hover, #adventure-games a:hover, #battle-games a:hover, #beat-em-games a:hover, #board-games a:hover, #breakout-clone-games a:hover, #children-games a:hover, #graphic-adventure-games a:hover, #educational-games a:hover, #graphic-adventure-games a:hover, #logical-games a:hover, #metroidvania-games a:hover, #physics-games a:hover, #platform-games a:hover, #programming-games a:hover, #puzzle-games a:hover, #rpg-games a:hover, #racing-games a:hover, #shooter-games a:hover, #simulation-games a:hover, #stealth-games a:hover, #sports-games a:hover, #strategy-games a:hover, #survival-games a:hover, #visual-novels-games a:hover {
     color: #ffffff;
+}
+
+.product-info:hover {
+    transition: 0.2s;
+    height: 143px;
+    transform: scale(1);
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.799), rgba(0, 0, 0, 0)), url();
 }
