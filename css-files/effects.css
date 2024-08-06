@@ -20,18 +20,18 @@
     width: 300px;
 }
 
-#horror-games:hover, #action-games:hover, #beat-em-games:hover {
+#horror-games:hover, #action-games:hover, #beat-em-games:hover, #breakout-clone-games:hover, #children-games:hover, #graphic-adventure-games:hover, #graphic-adventure-games:hover {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
     border: 2px solid #ffffff;
 }
 
-#star-wars-games:hover, #adventure-games:hover, #battle-games:hover {
+#star-wars-games:hover, #adventure-games:hover, #battle-games:hover, #board-games:hover, #educational-games:hover, #logical-games:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
     border: 2px solid #ffffff;
 }
 
-#horror-games a:hover, #star-wars-games a:hover, #action-games a:hover, #adventure-games a:hover, #battle-games a:hover, #beat-em-games a:hover {
+#horror-games a:hover, #star-wars-games a:hover, #action-games a:hover, #adventure-games a:hover, #battle-games a:hover, #beat-em-games a:hover, #board-games a:hover, #breakout-clone-games a:hover, #children-games a:hover, #graphic-adventure-games a:hover, #educational-games a:hover, #graphic-adventure-games a:hover, #logical-games a:hover {
     color: #ffffff;
 }
