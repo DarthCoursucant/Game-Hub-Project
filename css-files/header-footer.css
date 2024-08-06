@@ -17,7 +17,7 @@
     text-align:center;
     font-size: 30px;
     cursor: pointer;
-    color: #000000;
+    color: #02FF1B;
   }
   
   .menubar a {
@@ -29,26 +29,15 @@
     transition: 0.3s;
   }
   
-  .menubar a:hover {
-    font-size: 30px;
-    color: #000000;
-  }
-
-  #mymenu h1:hover, #mymenu h2:hover {
-    font-size: 45px;
-    color: #ffffff;
-  }
-  
   .menubar {
     font-size: 20px;
     line-height: 22px;
   }
-  
-  .closebtn {
+
+  .menubar img {
+    margin-top:  -15px;
     position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
+    right: 45px;
     margin-left: 50px;
   }
 
