@@ -28,10 +28,13 @@
   }
 
 #video-game-trailer {
-    background-color: aquamarine;
+    background-color: #2E7702;
+    box-shadow: 5px 5px 10px 5px #4FC009;
     width: 300px;
     margin-left: 25px;
     text-align: center;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
 }
 
 #video-game-trailer a {
@@ -59,11 +62,13 @@
 
 #buy-button {
     width: 300px;
-    background-color: brown;
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
     margin-left: 25px;
     border-radius: 20px;
     text-align: center;
     margin-bottom: 20px;
+    border: 2px solid #ffffff;
 }
 
 #buy-button a {
