@@ -3,11 +3,11 @@
     font-size: 55px;
 }
 
-.hero-image-funko-pops:hover, .new-arrivals-hero-image:hover, .top-sellers-hero-image:hover, .pre-order-hero-image:hover, .products-container:hover {
+.hero-image-funko-pops:hover, .new-arrivals-hero-image:hover, .top-sellers-hero-image:hover, .pre-order-hero-image:hover, .products-container:hover, .hero-image-xbox-accesories:hover, .hero-image-playstation-accesories:hover, .hero-image-pc-accesories:hover, .hero-image-nintedo-switch-accesories:hover {
     box-shadow: 5px 5px 10px 10px #ffffff;
 }
 
-.hero-text h1:hover, .hero-text p:hover, #category-container-header h1:hover {
+.hero-text h1:hover, .hero-text p:hover, #category-container-header h1:hover, .hero-text-one h1:hover, .hero-text-one p:hover {
     color: #03FFFF;
 }
 
