@@ -23,23 +23,26 @@
   }
 
 .video-game-header h1 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
+    margin-top: 5px;
   }
 
 #video-game-trailer {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #4FC009;
-    width: 300px;
-    margin-left: 25px;
+    width: 250px;
+    margin-left: 50px;
     text-align: center;
     border-radius: 20px;
     border: 2px solid #ffffff;
+    margin-top: -5px;
+    margin-bottom: 15px;
 }
 
 #video-game-trailer a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 #select-console-type {
