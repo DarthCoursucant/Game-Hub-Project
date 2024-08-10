@@ -407,12 +407,18 @@
                 <div class="video-game-info">
                     <!-- SELECT CONSOLE -->
                     <select id="select-console-type">
-                        <option value="playstation-four">PlayStation 4</option>
-                        <option value="playstation-five">PlatStation 5</option>
-                        <option value="nintendo-switch">Nintendo Switch</option>
-                        <option value="desktop" selected>PC</option>
-                        <option value="xbox-series-s">Xbox Series S</option>
-                        <option value="xbox-series-s">Xbox Series XBOX</option>
+                        <optgroup label="PlayStation">
+                            <option value="playstation-five">PlatStation 5</option>
+                            <option value="playstation-four">PlayStation 4</option>
+                        </optgroup>
+                        <optgroup label="Other Devices">
+                            <option value="nintendo-switch">Nintendo Switch</option>
+                            <option value="desktop" selected>PC</option>
+                        </optgroup>
+                        <optgroup label="Xbox">
+                            <option value="xbox-series-s">Xbox Series S</option>
+                            <option value="xbox-series-s">Xbox Series XBOX</option>
+                        </optgroup>
                     </select>
                     <!-- TRAILER -->
                     <div id="video-game-trailer">
@@ -623,7 +629,9 @@
                 <div class="video-game-info">
                     <!-- SELECT CONSOLE -->
                     <select id="select-console-type">
-                        <option value="playstation-five" selected>PlayStation 5</option>
+                        <optgroup label="PlayStation">
+                            <option value="playstation-five" selected>PlayStation 5</option>
+                        </optgroup>
                     </select>
                     <!-- TRAILER -->
                     <div id="video-game-trailer">
