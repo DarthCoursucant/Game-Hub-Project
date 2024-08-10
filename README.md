@@ -10,3 +10,4 @@ Action Games
 - Red Dead Redemption 2
 - Grand Theft Auto V
 - Detroit: Become Human
+- Gotham Knights
