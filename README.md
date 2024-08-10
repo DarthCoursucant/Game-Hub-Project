@@ -2,3 +2,6 @@
 
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
+
+Horror games
+- Visage
