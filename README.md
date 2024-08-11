@@ -12,3 +12,5 @@ Action Games
 - Detroit: Become Human
 - Gotham Knights
 - CYBERPUNK 2077
+- Elden Ring
+- God of War Ragnarök
