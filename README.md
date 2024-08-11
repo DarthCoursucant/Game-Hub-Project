@@ -14,3 +14,4 @@ Action Games
 - CYBERPUNK 2077
 - Elden Ring
 - God of War Ragnarök
+- The Last of Us
