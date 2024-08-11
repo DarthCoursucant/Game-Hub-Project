@@ -16,3 +16,4 @@ Action Games
 - God of War Ragnarök
 - The Last of Us
 - The Last of Us: Part II
+- Spider-Man 2
