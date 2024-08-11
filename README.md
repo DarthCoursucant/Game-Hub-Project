@@ -15,3 +15,4 @@ Star Wars Games
 - Battlefront II
 - The Force Unleashed
 - Jedi: Fallen Order
+- Jedi: Survivor
