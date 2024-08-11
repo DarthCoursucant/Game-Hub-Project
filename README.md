@@ -17,3 +17,5 @@ Star Wars Games
 - Jedi: Fallen Order
 - Jedi: Survivor
 - Star Wars: Squadrons
+- Star Wars: Knights of the Old Republic (video game)
+- Star Wars: The Old Republic
