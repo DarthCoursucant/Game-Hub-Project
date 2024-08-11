@@ -16,3 +16,4 @@ Star Wars Games
 - The Force Unleashed
 - Jedi: Fallen Order
 - Jedi: Survivor
+- Star Wars: Squadrons
