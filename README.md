@@ -9,3 +9,7 @@ Action Games
 - Fallout 4
 - Red Dead Redemption
 - Grand Theft Auto IV
+
+Star Wars Games
+- Battlefront 1
+- Battlefront II
