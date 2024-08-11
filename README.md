@@ -19,3 +19,4 @@ Star Wars Games
 - Star Wars: Squadrons
 - Star Wars: Knights of the Old Republic (video game)
 - Star Wars: The Old Republic
+- Lego Star Wars II: The Original Trilogy
