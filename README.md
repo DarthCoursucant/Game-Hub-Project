@@ -11,3 +11,4 @@ Action Games
 - Grand Theft Auto V
 - Detroit: Become Human
 - Gotham Knights
+- CYBERPUNK 2077
