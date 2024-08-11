@@ -15,3 +15,4 @@ Action Games
 - Elden Ring
 - God of War Ragnarök
 - The Last of Us
+- The Last of Us: Part II
