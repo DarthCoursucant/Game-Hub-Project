@@ -13,3 +13,5 @@ Action Games
 Star Wars Games
 - Battlefront 1
 - Battlefront II
+- The Force Unleashed
+- Jedi: Fallen Order
