@@ -20,3 +20,6 @@ Star Wars Games
 - Star Wars: Knights of the Old Republic (video game)
 - Star Wars: The Old Republic
 - Lego Star Wars II: The Original Trilogy
+- Lego Star Wars III: The Clone Wars
+- Lego Star Wars: The Force Awakens
+- Lego Star Wars: The Skywalker Saga
