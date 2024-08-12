@@ -40,3 +40,5 @@ ADVENTURE GAMES
 - Fallout: London
 - Uncharted 4: A Thief's End
 - Assassin's Creed: Valhalla
+- Assassin's Creed Odyssey
+- Assassin's Creed Origins
