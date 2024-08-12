@@ -23,3 +23,5 @@ Star Wars Games
 - Lego Star Wars III: The Clone Wars
 - Lego Star Wars: The Force Awakens
 - Lego Star Wars: The Skywalker Saga
+- LEGO Star Wars Battles
+- Star Wars: Galaxy Of Heroes
