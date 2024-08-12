@@ -36,3 +36,4 @@ ADVENTURE GAMES
 - God Of War
 - X-Men Origins: Wolverine
 - Horizon Forbidden West
+- The Elder Scrolls V: Skyrim
