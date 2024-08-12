@@ -25,3 +25,5 @@ Star Wars Games
 - Lego Star Wars: The Skywalker Saga
 - LEGO Star Wars Battles
 - Star Wars: Galaxy Of Heroes
+- Angry Birds Star Wars II
+- Episode I: Racer
