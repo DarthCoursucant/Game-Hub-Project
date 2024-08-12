@@ -33,3 +33,5 @@ ADVENTURE GAMES
 - Deadpool 2013
 - Death Stranding
 - Suicide Squad: Kill the Justice League
+- God Of War
+- X-Men Origins: Wolverine
