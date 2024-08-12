@@ -52,3 +52,4 @@ BATTLE GAMES
 - Metal Gear Solid V: The Phantom Pain
 - Call of Duty: Black Ops 6
 - Call of Duty: Black Ops II
+- Mortal Kombat 11
