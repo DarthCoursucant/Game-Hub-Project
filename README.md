@@ -48,3 +48,4 @@ BATTLE GAMES
 - Call of Duty: Modern Warfare III
 - Call of Duty: Modern Warfare
 - Call of Duty: Modern Warfare II
+- Call of Duty: Black Ops
