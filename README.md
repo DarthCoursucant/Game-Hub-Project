@@ -27,3 +27,7 @@ Star Wars Games
 - Star Wars: Galaxy Of Heroes
 - Angry Birds Star Wars II
 - Episode I: Racer
+
+ADVENTURE GAMES
+- Baldur's Gate III
+- Deadpool 2013
