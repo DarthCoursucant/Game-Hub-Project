@@ -31,3 +31,5 @@ Star Wars Games
 ADVENTURE GAMES
 - Baldur's Gate III
 - Deadpool 2013
+- Death Stranding
+- Suicide Squad: Kill the Justice League
