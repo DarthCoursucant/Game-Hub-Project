@@ -43,3 +43,8 @@ ADVENTURE GAMES
 - Assassin's Creed Odyssey
 - Assassin's Creed Origins
 - Assassin's Creed Syndicate
+
+BATTLE GAMES
+- Call of Duty: Modern Warfare III
+- Call of Duty: Modern Warfare
+- Call of Duty: Modern Warfare II
