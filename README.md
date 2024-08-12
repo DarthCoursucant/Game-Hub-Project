@@ -49,3 +49,5 @@ BATTLE GAMES
 - Call of Duty: Modern Warfare
 - Call of Duty: Modern Warfare II
 - Call of Duty: Black Ops
+- Metal Gear Solid V: The Phantom Pain
+- Call of Duty: Black Ops 6
