@@ -53,3 +53,4 @@ BATTLE GAMES
 - Call of Duty: Black Ops 6
 - Call of Duty: Black Ops II
 - Mortal Kombat 11
+- Call of Duty: Black Ops Cold War
