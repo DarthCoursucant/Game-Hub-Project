@@ -42,3 +42,4 @@ ADVENTURE GAMES
 - Assassin's Creed: Valhalla
 - Assassin's Creed Odyssey
 - Assassin's Creed Origins
+- Assassin's Creed Syndicate
