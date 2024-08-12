@@ -35,3 +35,4 @@ ADVENTURE GAMES
 - Suicide Squad: Kill the Justice League
 - God Of War
 - X-Men Origins: Wolverine
+- Horizon Forbidden West
