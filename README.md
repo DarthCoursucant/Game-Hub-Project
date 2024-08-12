@@ -39,3 +39,4 @@ ADVENTURE GAMES
 - The Elder Scrolls V: Skyrim
 - Fallout: London
 - Uncharted 4: A Thief's End
+- Assassin's Creed: Valhalla
