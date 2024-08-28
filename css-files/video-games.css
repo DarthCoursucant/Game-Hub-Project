@@ -99,3 +99,28 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.more-games-end-button {
+    background-color: #800000;
+    color: #ffffff;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.more-games-end-button h1 {
+    font-size: 45px;
+}
+
+.more-games-end-button p, .more-games-end-button a {
+    font-size: 25px;
+}
+
+.more-games-end-button a {
+    color: #00fc00;
+    text-decoration: none;
+}
