@@ -59,3 +59,5 @@ BATTLE GAMES
 - World of Tanks
 - Stronghold: Crusader
 - World of Warships
+- Age of Empires III: Definitive Edition 
+- Hell Let Loose
