@@ -87,3 +87,15 @@
     text-decoration: none;
     color: #ffffff;
 }
+
+.title-of-category-page {
+    background-color: #800000;
+    width: 600px;
+    color: #ffffff;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 430px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
