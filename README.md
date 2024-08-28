@@ -70,3 +70,6 @@ Beat Em Video Games
 - Scott Pilgrim vs. The World: The Game - Complete Edition
 - Sifu
 - Streets of Rage 4
+- Teenage Mutant Ninja Turtles: Shredder's Revenge
+- Treachery In Beatdown City
+- Yakuza 0
