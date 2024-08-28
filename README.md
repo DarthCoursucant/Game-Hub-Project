@@ -68,3 +68,5 @@ Beat Em Video Games
 - River City Girls 2
 - River City Melee Mach!! 
 - Scott Pilgrim vs. The World: The Game - Complete Edition
+- Sifu
+- Streets of Rage 4
