@@ -65,3 +65,5 @@ BATTLE GAMES
 Beat Em Video Games
 - Fight'N Rage
 - River City Girls
+- River City Girls 2
+- River City Melee Mach!! 
