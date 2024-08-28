@@ -61,3 +61,6 @@ BATTLE GAMES
 - World of Warships
 - Age of Empires III: Definitive Edition 
 - Hell Let Loose
+
+Beat Em Video Games
+- Fight'N Rage
