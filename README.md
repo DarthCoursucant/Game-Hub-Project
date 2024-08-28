@@ -57,3 +57,5 @@ BATTLE GAMES
 - Warhammer 40,000: Space Marine 2
 - A Total War Saga
 - World of Tanks
+- Stronghold: Crusader
+- World of Warships
