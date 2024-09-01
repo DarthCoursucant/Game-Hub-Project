@@ -49,3 +49,7 @@ Beat Em Video Games
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
 - Treachery In Beatdown City
 - Yakuza 0
+
+CHILDREN
+- Among Us
+- Blanc
