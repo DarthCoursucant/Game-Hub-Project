@@ -53,3 +53,5 @@ Beat Em Video Games
 CHILDREN
 - Among Us
 - Blanc
+- Crossy Road
+- Cuphead 
