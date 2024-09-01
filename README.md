@@ -55,3 +55,4 @@ CHILDREN
 - Blanc
 - Crossy Road
 - Cuphead 
+- Disney Dreamlight Valley
