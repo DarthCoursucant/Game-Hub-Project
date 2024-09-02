@@ -11,3 +11,5 @@ CHILDREN
 - Cuphead 
 - Disney Dreamlight Valley
 - Disney Illusion Island
+- Five Nights at Freddy’s: Help Wanted
+- Fortnite
