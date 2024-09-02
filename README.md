@@ -3,26 +3,6 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-
-ADVENTURE GAMES
-- Baldur's Gate III
-- Deadpool 2013
-- Death Stranding
-- Suicide Squad: Kill the Justice League
-- God Of War
-- X-Men Origins: Wolverine
-- Horizon Forbidden West
-- The Elder Scrolls V: Skyrim
-- Fallout: London
-- Uncharted 4: A Thief's End
-- Assassin's Creed: Valhalla
-- Assassin's Creed Odyssey
-- Assassin's Creed Origins
-- Assassin's Creed Syndicate
-
-BATTLE GAMES
-- Call of Duty: Modern Warfare III
-- Call of Duty: Modern Warfare
 - Call of Duty: Modern Warfare II
 - Call of Duty: Black Ops
 - Metal Gear Solid V: The Phantom Pain
