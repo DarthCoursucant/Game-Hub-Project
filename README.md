@@ -3,16 +3,7 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-- Call of Duty: Modern Warfare II
-- Call of Duty: Black Ops
-- Metal Gear Solid V: The Phantom Pain
-- Call of Duty: Black Ops 6
-- Call of Duty: Black Ops II
-- Mortal Kombat 11
-- Call of Duty: Black Ops Cold War
-- Warhammer 40,000: Space Marine 2
-- A Total War Saga
-- World of Tanks
+
 - Stronghold: Crusader
 - World of Warships
 - Age of Empires III: Definitive Edition 
