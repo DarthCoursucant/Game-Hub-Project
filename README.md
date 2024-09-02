@@ -10,3 +10,4 @@ CHILDREN
 - Crossy Road
 - Cuphead 
 - Disney Dreamlight Valley
+- Disney Illusion Island
