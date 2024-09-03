@@ -15,6 +15,5 @@ CHILDREN
 - Minecraft
 
 
-Educational
-- SimCity 
-- Caesar
+Graphic Adventure
+- Mystery House
