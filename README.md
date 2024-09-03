@@ -15,7 +15,5 @@ CHILDREN
 - Minecraft
 
 
-Graphic Adventure
-- Mystery House
-- Mission Asteroid
-- Ulysses and the Golden Fleece
+Platform Games
+- 10 Second Ninja X
