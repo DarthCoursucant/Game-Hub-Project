@@ -29,3 +29,6 @@ Platform Games
 - Miner 2049er
 - Monster Bash
 - Mutant Mudds
+- Ninja Five-O
+- Cave Story
+- Shovel Knight
