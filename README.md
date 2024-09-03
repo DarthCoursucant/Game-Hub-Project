@@ -19,3 +19,7 @@ Platform Games
 - 10 Second Ninja X
 - Kangaroo
 - Kid Icarus
+- Aero the Acro-Bat
+- Akane the Kunoichi
+- Alien Carnage (Halloween Harry)
+- Amazing Princess Sarah
