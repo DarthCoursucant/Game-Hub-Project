@@ -26,3 +26,6 @@ Platform Games
 - Another World
 - Knytt
 - MapleStory
+- Miner 2049er
+- Monster Bash
+- Mutant Mudds
