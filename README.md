@@ -24,3 +24,5 @@ Platform Games
 - Alien Carnage (Halloween Harry)
 - Amazing Princess Sarah
 - Another World
+- Knytt
+- MapleStory
