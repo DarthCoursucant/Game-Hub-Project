@@ -13,3 +13,7 @@ CHILDREN
 - Mario + Rabbids Sparks of Hope
 - Marvel's Spider-Man: Miles Morales
 - Minecraft
+
+
+Educational
+- SimCity 
