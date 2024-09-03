@@ -17,3 +17,5 @@ CHILDREN
 
 Platform Games
 - 10 Second Ninja X
+- Kangaroo
+- Kid Icarus
