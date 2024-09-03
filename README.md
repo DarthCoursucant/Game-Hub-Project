@@ -17,3 +17,4 @@ CHILDREN
 
 Graphic Adventure
 - Mystery House
+- Mission Asteroid
