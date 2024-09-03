@@ -18,3 +18,4 @@ CHILDREN
 Graphic Adventure
 - Mystery House
 - Mission Asteroid
+- Ulysses and the Golden Fleece
