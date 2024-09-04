@@ -48,3 +48,7 @@ Puzzle
 - Yoshi
 - Critter Crunch
 - Bejeweled
+
+Racing Games
+- 2 Fast 2 Furious
+- 2XL ATV Offroad
