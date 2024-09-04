@@ -61,3 +61,11 @@ Racing Games
 - Baja: Edge of Control
 - Bang Bang Racing
 - Batman: Gotham City Racer
+- Battle Gear 4
+- Ben 10: Galactic Racing
+- Fast & Furious: Spy Racers Rise of SH1FT3R
+- Fast & Furious Crossroads
+- Forza Horizon 2 Presents Fast & Furious
+
+Simulation Games
+- Bus Simulator 16 
