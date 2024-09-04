@@ -45,3 +45,6 @@ Puzzle
 - Suika Game
 - Super Swap
 - Wario's Woods
+- Yoshi
+- Critter Crunch
+- Bejeweled
