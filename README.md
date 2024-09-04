@@ -32,3 +32,10 @@ Platform Games
 - Ninja Five-O
 - Cave Story
 - Shovel Knight
+
+Puzzle
+- Alien Hive
+- Blueprint 3D
+- Columns
+- Dr. Mario
+- Drop Mania
