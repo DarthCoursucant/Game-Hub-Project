@@ -52,3 +52,4 @@ Puzzle
 Racing Games
 - 2 Fast 2 Furious
 - 2XL ATV Offroad
+- 2XL MX Offroad
