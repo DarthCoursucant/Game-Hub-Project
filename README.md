@@ -39,3 +39,9 @@ Puzzle
 - Columns
 - Dr. Mario
 - Drop Mania
+- Lumines
+- Pac-Attack
+- Rampage Puzzle Attack
+- Suika Game
+- Super Swap
+- Wario's Woods
