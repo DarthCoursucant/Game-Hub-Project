@@ -96,3 +96,14 @@ SPORT GAMES
 - fifa 14
 - NHL 19
 -  NHL 15 
+- NHL 18
+- NHL 20
+- NHL 21
+- NHL 22
+
+Stealth Games
+- Assassin's Creed (video game)
+- Assassin's Creed II
+- Assassin's Creed III
+- Assassin's Creed IV: Black Flag
+- Assassin's Creed Mirage
