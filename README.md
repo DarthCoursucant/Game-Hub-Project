@@ -101,9 +101,19 @@ SPORT GAMES
 - NHL 21
 - NHL 22
 
-Stealth Games
-- Assassin's Creed (video game)
-- Assassin's Creed II
-- Assassin's Creed III
-- Assassin's Creed IV: Black Flag
-- Assassin's Creed Mirage
+Strategy Games
+- Men of War II
+- Manor Lords
+- Homeworld 3
+- Industrial Annihilation
+- Heart of Muriet
+- Chromosome Evil 2
+- Cataclismo
+- 9-Bit Armies: A Bit Too Far
+- The Settlers: New Allies
+-	The Great War: Western Front
+- Pikmin 4
+- Minecraft Legends
+- Starship Troopers: Terran Command
+- Knights of Honor II: Sovereign
+- Company of Heroes 3
