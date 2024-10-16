@@ -3,15 +3,6 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-
-CHILDREN
-- Kirby and the Forgotten Land
-- Kirby Star Allies
-- Mario + Rabbids Sparks of Hope
-- Marvel's Spider-Man: Miles Morales
-- Minecraft
-
-
 Platform Games
 - 10 Second Ninja X
 - Kangaroo
