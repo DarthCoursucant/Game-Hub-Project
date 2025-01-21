@@ -3,16 +3,6 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-Platform Games
-- Knytt
-- MapleStory
-- Miner 2049er
-- Monster Bash
-- Mutant Mudds
-- Ninja Five-O
-- Cave Story
-- Shovel Knight
-
 Puzzle
 - Alien Hive
 - Blueprint 3D
