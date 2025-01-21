@@ -115,3 +115,5 @@ Survival Games
 - State Of Decay 2
 - Ark: Survival Evolved
 - The Long Dark
+- Project Zomboid
+- Neo Scavenger
