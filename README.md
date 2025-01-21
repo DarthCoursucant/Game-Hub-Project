@@ -4,14 +4,6 @@ Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
 Platform Games
-- 10 Second Ninja X
-- Kangaroo
-- Kid Icarus
-- Aero the Acro-Bat
-- Akane the Kunoichi
-- Alien Carnage (Halloween Harry)
-- Amazing Princess Sarah
-- Another World
 - Knytt
 - MapleStory
 - Miner 2049er
