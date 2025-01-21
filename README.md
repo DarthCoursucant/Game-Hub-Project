@@ -119,3 +119,7 @@ Survival Games
 - Neo Scavenger
 - Among Trees
 -  Raft game
+- Pathologic
+- 7 Days To Die
+- This War Of Mine
+- Astroneer
