@@ -3,25 +3,7 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-Puzzle
-- Alien Hive
-- Blueprint 3D
-- Columns
-- Dr. Mario
-- Drop Mania
-- Lumines
-- Pac-Attack
-- Rampage Puzzle Attack
-- Suika Game
-- Super Swap
-- Wario's Woods
-- Yoshi
-- Critter Crunch
-- Bejeweled
-
 Racing Games
-- 2 Fast 2 Furious
-- 2XL ATV Offroad
 - 2XL MX Offroad
 - 2XL Supercross
 - Asphalt 3D
