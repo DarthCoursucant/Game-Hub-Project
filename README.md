@@ -112,3 +112,6 @@ Survival Games
 - TerraTech Worlds
 - Sons of the Forest
 - Smalland: Survive the Wilds
+- State Of Decay 2
+- Ark: Survival Evolved
+- The Long Dark
