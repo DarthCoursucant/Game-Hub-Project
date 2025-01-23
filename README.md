@@ -3,26 +3,8 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-SPORT GAMES
-- Madden 20
-- madden 24
-- fifa 19
--  fifa 16
-- fifa 15
-- fifa 14
-- NHL 19
--  NHL 15 
-- NHL 18
-- NHL 20
-- NHL 21
-- NHL 22
 
 Strategy Games
-- Men of War II
-- Manor Lords
-- Homeworld 3
-- Industrial Annihilation
-- Heart of Muriet
 - Chromosome Evil 2
 - Cataclismo
 - 9-Bit Armies: A Bit Too Far
