@@ -3,12 +3,6 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-Racing Games
-- Ben 10: Galactic Racing
-- Fast & Furious: Spy Racers Rise of SH1FT3R
-- Fast & Furious Crossroads
-- Forza Horizon 2 Presents Fast & Furious
-
 Simulation Games
 - Bus Simulato
 - Microsoft Flight
