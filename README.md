@@ -5,9 +5,6 @@ https://darthcoursucant.github.io/Game-Hub-Project/
 
 
 Strategy Games
-- The Settlers: New Allies
--	The Great War: Western Front
-- Pikmin 4
 - Minecraft Legends
 - Starship Troopers: Terran Command
 - Knights of Honor II: Sovereign
