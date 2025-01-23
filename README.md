@@ -4,10 +4,6 @@ Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
 Racing Games
-- 2XL MX Offroad
-- 2XL Supercross
-- Asphalt 3D
-- Asphalt 7: Heat
 - Asphalt Legends
 - Assetto Corsa Competizione
 - Baja: Edge of Control
