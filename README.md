@@ -4,12 +4,6 @@ Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
 Racing Games
-- Asphalt Legends
-- Assetto Corsa Competizione
-- Baja: Edge of Control
-- Bang Bang Racing
-- Batman: Gotham City Racer
-- Battle Gear 4
 - Ben 10: Galactic Racing
 - Fast & Furious: Spy Racers Rise of SH1FT3R
 - Fast & Furious Crossroads
