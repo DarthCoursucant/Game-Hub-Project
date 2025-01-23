@@ -4,18 +4,6 @@ Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
 Simulation Games
-- Bus Simulato
-- Microsoft Flight
-- Euro Truck Simulator 2
-- Euro Truck Simulator 
-- Goat Simulator 3
-- The Sims 2
-- The Sims 3 
-- Two Point Campus
-- Jurassic World Evolution 2
-- NIMBY Rails
-- Airport CEO
-- transport Fever 2
 - Startup Company
 - Rise of Industry
 - Tropico 6
