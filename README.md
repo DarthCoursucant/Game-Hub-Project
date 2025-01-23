@@ -3,16 +3,7 @@
 Github Pages
 https://darthcoursucant.github.io/Game-Hub-Project/
 
-
-Strategy Games
-- Minecraft Legends
-- Starship Troopers: Terran Command
-- Knights of Honor II: Sovereign
-- Company of Heroes 3
-
 Survival Games
-- V Rising
-- The Planet Crafter
 - TerraTech Worlds
 - Sons of the Forest
 - Smalland: Survive the Wilds
