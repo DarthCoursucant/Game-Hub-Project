@@ -5,9 +5,6 @@ https://darthcoursucant.github.io/Game-Hub-Project/
 
 
 Strategy Games
-- Chromosome Evil 2
-- Cataclismo
-- 9-Bit Armies: A Bit Too Far
 - The Settlers: New Allies
 -	The Great War: Western Front
 - Pikmin 4
