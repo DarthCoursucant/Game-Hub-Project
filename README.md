@@ -5,4 +5,6 @@ https://darthcoursucant.github.io/Game-Hub-Project/
 
 
 VISUAL NOVELS GAMES
-- 
+- ERROR143
+- Dead Plate
+- Elevator Hitch
