@@ -5,7 +5,4 @@ https://darthcoursucant.github.io/Game-Hub-Project/
 
 
 VISUAL NOVELS GAMES
-- Little Nightmares
-- Granny
-- Delicious Date
-- MiSide DEMO
+- A Date with Death
