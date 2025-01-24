@@ -8,3 +8,4 @@ VISUAL NOVELS GAMES
 - Little Nightmares
 - Granny
 - Delicious Date
+- MiSide DEMO
